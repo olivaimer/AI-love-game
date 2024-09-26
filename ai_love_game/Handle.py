@@ -21,9 +21,9 @@ PORT = 8080
 class Handle:
     def __init__(self):
         self.lock = threading.Lock() 
-        self.app_id = "5be90b0f"
-        self.app_key = "4f041f28039754783717dc5b81026cf6"
-        self.app_secret = "MGI5ZjQ1N2Y5MzU2ODg5YjZhODEwNDQ0"
+        self.app_id = ""
+        self.app_key = ""
+        self.app_secret = ""
         self.file_name1=r"database\chuxue_long_history.json"
         self.file_name2=r"database\chuxue5.json"
         self.db_path=r"database/data.db"
