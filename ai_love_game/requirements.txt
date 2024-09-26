@@ -1,0 +1,8 @@
+gradio
+typing
+spark-ai-python==0.4.1
+sparkai==0.3.0
+langchain==0.2.6
+langchain-community==0.2.6
+langchain-core==0.2.11
+langchain-huggingface==0.0.3
